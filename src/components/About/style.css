@@ -1,0 +1,38 @@
+.about-page {
+  height: 550px;
+  width: 100%;
+  background-image: url("../../images/code.png");
+  opacity: 0.7;
+  animation: clouds_anim 5s linear infinite;
+}
+.img {
+  border-radius: 10px;
+  width: 70%;
+  margin: auto;
+  padding: 30px;
+}
+.img img {
+  margin-left: 25px;
+  width: 100px;
+}
+.about-me {
+  color: white;
+  margin: auto;
+  margin-top: 100px;
+  width: 70%;
+}
+.logo {
+  border-radius: 35%;
+}
+.logo-1 {
+  border-radius: 79%;
+}
+
+@keyframes clouds_anim {
+  0% {
+    background-position: 0, 0;
+  }
+  100% {
+    background-position: -2000, 0;
+  }
+}

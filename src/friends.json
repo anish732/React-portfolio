@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Note-taker",
+    "image": "./images/note-taker.png",
+    "occupation": "This is a full stack web application.User can take a note,save a note and delete a note",
+    "Technologies": "Express, MySQL, Node.js",
+    "demo": "https://murmuring-dusk-18279.herokuapp.com/",
+    "github": "https://github.com/anish732/note-taker",
+    "logo": "./images/sql.png"
+  },
+  {
+    "id": 2,
+    "name": "Eat da Burger!",
+    "image": "./images/burgerwork.png",
+    "occupation": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. It is a full stack web application.",
+    "Technologies": "Express-handlebar, Node.js,MySQL",
+    "demo": "https://glacial-harbor-13375.herokuapp.com/",
+    "github": "https://github.com/anish732/burger",
+    "logo": "./images/sql.png"
+  },
+  {
+    "id": 3,
+    "name": "Memory Game",
+    "image": "./images/clicky.png",
+    "occupation": "Memory game is a React application. Images will shuffle every time user click on the image. If user clicks same image twice then game will end.",
+    "Technologies": "React",
+    "demo": "https://anish732.github.io/Clicky/",
+    "github": "https://github.com/anish732/Clicky",
+    "logo": "./images/logo192.png"
+  },
+  {
+    "id": 4,
+    "name": "Face-fortune",
+    "image": "./images/face-fortune.png",
+    "occupation": "Detect and analyze human faces within the image that you provided. Detect API can analyze detected faces directly, providing face landmarks and attributes information. ",
+    "Technologies": "HTML,CSS,JavaScript,JQuery",
+    "github": "https://github.com/hawkeflansang/project1-group2",
+    "demo": "https://hawkeflansang.github.io/project1-group2/",
+    "logo": "./images/HTML5-CSS3-jQuery.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Friens Connector",
+    "image": "./images/friends.png",
+    "occupation": "Friends connector is a MERN application. A platform for friends to connect. They can create their profile, create post and chat.",
+    "Technologies": "Node.js,Express,MongoDB,React,Redux",
+    "github": "https://github.com/Keerthi-Mani/Project-3",
+    "demo": "https://stormy-reaches-32043.herokuapp.com/",
+    "logo": "./images/logo192.png"
+  },
+  {
+    "id": 6,
+    "name": "Bamazon",
+    "image": "./images/mysqlwork.png",
+    "occupation": "Bamazon CLI is a command-line interface Node.js application that runs a store called Bamazon. You are able to interact with the two sides of the store from the main menu as a Customer and Manager.",
+    "Technologies": "Node.js,MySQL",
+    "github": "https://github.com/anish732/bamazon",
+    "logo": "./images/sql.png"
+  },
+  {
+    "id": 7,
+    "name": "News Scraper",
+    "image": "./images/new.png",
+    "occupation": "News-scrape is an app that pulls the latest articles from Wall Street Journal. User can take a note about the article. Save a note and delete article.",
+    "Technologies": "Express,MongoDB,Node.js",
+    "github": "https://github.com/anish732/News-scrape",
+    "demo": "https://news-scraper-work.herokuapp.com/",
+    "logo": "./images/mongo.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Trivia Quiz",
+    "image": "./images/triviaproject.png",
+    "occupation": "Trivia quiz is Javascript application. You have to answer each question in 20 seconds.End of the game you will get result with correct and incorrect answer.",
+    "Technologies": "HTML,CSS,Bootstrap,Javascript",
+    "github": "https://github.com/anish732/Trivia-Game",
+    "demo": "https://anish732.github.io/Trivia-Game/",
+    "logo": "./images/js-logo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Gif-Tastic",
+    "image": "./images/giphy.gif",
+    "occupation": "Adventurer",
+    "Technologies": "HTML,CSS,JavaScript,JQuery",
+    "github": "https://github.com/anish732/Gif-Tastic",
+    "demo": "https://anish732.github.io/Gif-Tastic/",
+    "logo": "./images/ajax.jpg"
+  }
+]

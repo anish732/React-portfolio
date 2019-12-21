@@ -1,0 +1,30 @@
+.fa {
+  margin: 5px;
+  font-size: 90px;
+}
+.contact-page {
+  margin: auto;
+  margin-top: 50px;
+  height: 400px;
+  background-color: black;
+  opacity: 0.75;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+.name {
+  margin-top: 50px;
+  font-size: 45px;
+}
+.contact-link {
+  margin-top: 40px;
+}
+.email {
+  font-weight: 500;
+  border: 1px solid rgb(5, 116, 69);
+  border-radius: 10px;
+  width: fit-content;
+  padding: 15px;
+  margin: auto;
+  margin-top: 80px;
+}

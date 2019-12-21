@@ -1,0 +1,50 @@
+import React, { Component } from "react";
+import { Container, Row, Col, Button } from "reactstrap";
+import FriendCard from "../FriendCard";
+import friends from "../../friends.json";
+import Contact from "../Contact";
+import About from "../About";
+import "./style.css";
+class Body extends Component {
+  state = {
+    friends
+  };
+  render() {
+    return (
+      <Container>
+        <section className="about">
+          <Row>
+            <h1 className="heading"> About me</h1>
+            <About />
+          </Row>
+        </section>
+        <Row>
+          <h1 className="portfoio"> Portfolio</h1>
+        </Row>
+        <Row>
+          {this.state.friends.map(friend => (
+            <FriendCard
+              id={friend.id}
+              key={friend.id}
+              name={friend.name}
+              image={friend.image}
+              occupation={friend.occupation}
+              Technologies={friend.Technologies}
+              demo={friend.demo}
+              github={friend.github}
+              logo={friend.logo}
+            />
+          ))}
+        </Row>
+        <Row>
+          <h1 className="portfoio">Contact</h1>
+        </Row>
+        <Row>
+          <Contact />
+        </Row>
+      </Container>
+    );
+  }
+}
+
+export default Body;
