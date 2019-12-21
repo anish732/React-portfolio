@@ -15,10 +15,18 @@ function About() {
         <br></br>
       </div>
       <div className="img">
-        <img src="../images/logo192.png" className="logo"></img>
-        <img src="../images/ajax.jpg" className="logo"></img>
-        <img src="../images/node.png" className="logo"></img>
-        <img src="../images/mongo.jpg" className="logo-1"></img>
+        <img
+          src="../images/logo192.png"
+          className="logo"
+          alt="react-logo"
+        ></img>
+        <img src="../images/ajax.jpg" className="logo" alt="ajax-logo"></img>
+        <img src="../images/node.png" className="logo" alt="node-logo"></img>
+        <img
+          src="../images/mongo.jpg"
+          className="logo-1"
+          alt="mongo-logo"
+        ></img>
         <img src="../images/sql.png"></img>
       </div>
     </div>
