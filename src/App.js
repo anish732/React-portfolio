@@ -1,11 +1,10 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import Body from "./components/Body";
 import Footer from "./components/Footer";
-import Contact from "./components/Contact";
 
 class App extends Component {
   // Setting this.state.friends to the friends json array

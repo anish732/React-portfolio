@@ -41,7 +41,7 @@ function FriendCard(props) {
             ></i>
           </a>
         </Button>
-        <img src={props.logo}></img>
+        <img src={props.logo} alt={props.name}></img>
       </div>
     </div>
   );

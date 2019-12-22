@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-scroll";
 import "./style.css";
-import { NavLink, NavbarToggler, Collapse } from "reactstrap";
 
 class Navbar extends Component {
   render() {
