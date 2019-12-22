@@ -29,7 +29,7 @@ class Navbar extends Component {
           offset={-300}
           duration={500}
         >
-          Portfolio
+          My creations
         </Link>
         <Link
           className="me"

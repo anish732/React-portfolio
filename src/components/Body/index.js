@@ -19,7 +19,7 @@ class Body extends Component {
           </Row>
         </section>
         <Row>
-          <h1 className="portfoio"> Portfolio</h1>
+          <h1 className="portfoio"> My Creations </h1>
         </Row>
         <Row>
           {this.state.friends.map(friend => (

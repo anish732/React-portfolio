@@ -17,4 +17,5 @@
 }
 .navbar > .active {
   border-bottom: 1px solid white;
+  color: cadetblue;
 }
