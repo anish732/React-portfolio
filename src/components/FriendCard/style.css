@@ -1,3 +1,10 @@
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
 .card {
   background: #f9fafc;
   border-radius: 2px;

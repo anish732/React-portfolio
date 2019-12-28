@@ -4,7 +4,7 @@ import { Button } from "reactstrap";
 
 function FriendCard(props) {
   return (
-    <div className="card" id="portfolio">
+    <div className="card clearfix" id="portfolio">
       <div className="img-container">
         <img alt={props.name} src={props.image} />
       </div>

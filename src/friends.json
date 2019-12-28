@@ -71,7 +71,7 @@
   {
     "id": 8,
     "name": "Trivia Quiz",
-    "image": "./images/triviaproject.png",
+    "image": "./images/budget.png",
     "occupation": "Trivia quiz is Javascript application. You have to answer each question in 20 seconds.End of the game you will get result with correct and incorrect answer.",
     "Technologies": "HTML,CSS,Bootstrap,Javascript",
     "github": "https://github.com/anish732/Trivia-Game",
