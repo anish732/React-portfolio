@@ -70,12 +70,12 @@
   },
   {
     "id": 8,
-    "name": "Trivia Quiz",
+    "name": "Budget App",
     "image": "./images/budget.png",
-    "occupation": "Trivia quiz is Javascript application. You have to answer each question in 20 seconds.End of the game you will get result with correct and incorrect answer.",
-    "Technologies": "HTML,CSS,Bootstrap,Javascript",
-    "github": "https://github.com/anish732/Trivia-Game",
-    "demo": "https://anish732.github.io/Trivia-Game/",
+    "occupation": "Budget App is  a Javascript application. You can Keep record of monthly income and expenses. It will give percentages of your total expenses and even indivisual expenses. ",
+    "Technologies": "HTML,CSS,Javascript",
+    "github": "https://github.com/anish732/Budget",
+    "demo": "https://anish732.github.io/Budget/",
     "logo": "./images/js-logo.jpg"
   },
   {

@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import "../../images";
 
 function About() {
   return (
@@ -15,7 +16,7 @@ function About() {
         <br></br>
       </div>
       <div className="img">
-        <img src="../images/logo192.png" className="logo" alt="react"></img>
+        <img src="../../images/logo192.png" className="logo" alt="react"></img>
         <img src="../images/ajax.jpg" className="logo" alt="ajax"></img>
         <img src="../images/node.png" className="logo" alt="node"></img>
         <img src="../images/mongo.jpg" className="logo-1" alt="mongo"></img>
