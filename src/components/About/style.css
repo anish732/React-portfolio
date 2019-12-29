@@ -2,7 +2,7 @@
   height: 550px;
   width: 100%;
   background-image: url("../../images/code.png");
-  opacity: 0.7;
+  opacity: 0.9;
   animation: clouds_anim 5s linear infinite;
 }
 .img {

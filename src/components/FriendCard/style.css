@@ -4,7 +4,6 @@
   clear: both;
 }
 
-
 .card {
   background: #f9fafc;
   border-radius: 2px;
@@ -15,8 +14,10 @@
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
 }
+
 .card:hover {
-  width: 340px;
+  transform: translateY(5px);
+
   border: 1px solid burlywood;
 }
 .card > .img-container {

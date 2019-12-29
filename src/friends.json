@@ -72,7 +72,7 @@
     "id": 8,
     "name": "Budget App",
     "image": "./images/budget.png",
-    "occupation": "Budget App is  a Javascript application. You can Keep record of monthly income and expenses. It will give percentages of your total expenses and even indivisual expenses. ",
+    "occupation": "Budget App is  a Javascript application. You can Keep record of monthly income and expenses. It will give percentages of your total expenses and even individual expenses. ",
     "Technologies": "HTML,CSS,Javascript",
     "github": "https://github.com/anish732/Budget",
     "demo": "https://anish732.github.io/Budget/",
