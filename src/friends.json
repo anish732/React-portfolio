@@ -82,7 +82,7 @@
   {
     "id": 9,
     "name": "Gif-Tastic",
-    "image": "./images/giphy.gif",
+    "image": "./images/gif.png",
     "occupation": "Giphy API from Giphy Developer.",
     "Technologies": "HTML,CSS,JavaScript,JQuery",
     "github": "https://github.com/anish732/Gif-Tastic",
