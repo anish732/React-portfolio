@@ -5,6 +5,7 @@ import friends from "../../friends.json";
 import Contact from "../Contact";
 import About from "../About";
 import "./style.css";
+import Title from "../Title";
 class Body extends Component {
   state = {
     friends
@@ -16,6 +17,12 @@ class Body extends Component {
           <Row>
             <h1 className="heading"> About me</h1>
             <About />
+          </Row>
+        </section>
+        <section className="experties">
+          <Row>
+            <h1 className="heading">My Experties</h1>
+            <Title />
           </Row>
         </section>
         <Row>
