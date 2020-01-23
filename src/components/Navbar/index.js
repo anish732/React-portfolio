@@ -23,6 +23,18 @@ class Navbar extends Component {
         <Link
           className="me"
           activeClass="active"
+          to="experties"
+          spy={true}
+          smooth={true}
+          offset={-270}
+          duration={700}
+        >
+          My Experties
+        </Link>
+
+        <Link
+          className="me"
+          activeClass="active"
           to="portfolio"
           spy={true}
           smooth={true}
