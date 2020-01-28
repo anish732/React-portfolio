@@ -29,7 +29,7 @@ class Navbar extends Component {
           offset={-270}
           duration={700}
         >
-          My Experties
+          My Expertise
         </Link>
 
         <Link

@@ -21,7 +21,7 @@ class Body extends Component {
         </section>
         <section className="experties">
           <Row>
-            <h1 className="heading">My Experties</h1>
+            <h1 className="heading">My Expertise</h1>
             <Title />
           </Row>
         </section>
